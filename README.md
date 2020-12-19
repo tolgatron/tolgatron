@@ -36,13 +36,6 @@ I'm a self taught Indie Game Developer from Mersin, Turkey. I've always been an 
 [![Instagram](https://img.shields.io/badge/Youtube-darkblue)][youtube]
 [![Twitch](https://img.shields.io/twitch/status/tolgatron?style=flat-square)][twitch]
 
-
-
---- 
-
-
-
-
 [website]: http://www.impressvr.com
 [twitch]: https://www.twitch.tv/tolgatr0n
 [mail]: mailto:tolgacoskun@impressvr.com 
