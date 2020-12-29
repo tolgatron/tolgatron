@@ -14,6 +14,7 @@ I'm a self taught Indie Game Developer from Mersin, Turkey. I've always been an 
   <summary> 📕 Latest Blog Posts in Turkish</summary>
   
     <!--START_SECTION:activity-->
+    - [Hyper Casual, Temel mi? Tuzak mı?](https://www.linkedin.com/pulse/hyper-casual-temel-mi-tuzak-m%25C4%25B1-tolga-co%25C5%259Fkun/?trackingId=sQPH1JwvS9WJTifzywkgXg%3D%3D)
     - [Bir Sanat Olarak Dijital Oyunlar](https://www.linkedin.com/pulse/bir-sanat-olarak-dijital-oyunlar-tolga-co%C5%9Fkun/)
     - [ANNE! Ben oyun yapıyorum!](https://www.linkedin.com/pulse/anne-ben-oyun-yap%C4%B1yorum-tolga-co%C5%9Fkun/)
     - [Bitir İşini!](https://www.linkedin.com/pulse/bitir-i%C5%9Fini-tolga-co%C5%9Fkun/)
