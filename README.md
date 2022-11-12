@@ -1,29 +1,16 @@
 ## Hey, I'm Tolga Coşkun - aka [TolgaTron][twitch] 👋
-### I'm an Indie Game Developer, Streamer and a Game Geek!
+### I'm the Founder & Studio Director of Dumbbell Games
 
-I'm a self taught Indie Game Developer from Mersin, Turkey. I've always been an avid gamer and since 2014, I create games for different platforms, VR/AR experiences and training applications. I mainly develop my games in Unity but I also use Unreal and sometimes Godot as well. I also write blog posts about my experiences with being a game developer in Turkey.
+I'm a Game Developer / Technical Designer and a Game Geek from Mersin, Turkey. Currently Founder & Studio Director of Dumbbell Games. I've always been an avid gamer since age of 4 and dabbled myself in creating games since 2006 with the early versions of GameMaker. 
+ 
+Been one of the early adopters of VR/AR in Turkey since 2014, I've utilized both Unity and Unreal Engine for creating safety trainings for businesses, architectural visualization-BIM applications and gamified VR and AR experiences under ImpressVR. Completed more than 15 B2B VR/AR projects in ImpressVR's lifetime. I can safely say that I'm a VR or "Metaverse Hipster". Also opened a VR Arcade in 2015 and created more than 50 mini VR-Games for our customers. 
 
-- I'm currently working on 3 projects but many more to come 
-    - VaporFly - [Steam](https://store.steampowered.com/app/1119770/VaporFly/?l=turkish) 
-    - Sidelines - [iOS](https://apps.apple.com/ua/app/sidelines-football-manager/id1532469446) - [Google Play](https://play.google.com/store/apps/details?id=com.DumbbellGames.Sidelines) 
-    - VaporDash - [iOS](https://apps.apple.com/ua/app/vapordash/id1533601051) - [Google Play](https://play.google.com/store/apps/details?id=com.DumbbellGames.VaporDash)
-- I create AR/VR experiences for businesses around the world.
+Before #Metaverse was a thing and COVID became rampant in 2020, I've took a break from building VR/AR experiences. Worked with amazing studios & people ranging from small mobile to well-known AAA's as a Technical Designer. With all the know-how I've gathered around the industry since 2014, I've founded Dumbbell Games in 2021 so we can bring the best experiences to the players, independent of the platform.
+
+- Interested to see what Dumbbell Games has to offer? => [Dumbbell](http://www.dumbbellgames.com)
+- Check out some [cool](http://www.tolgatron.com) stuff that I've made! 
 - I'm always a message away [@tolgatr0n][twitter]
-- I sometimes write blog posts for newcomers @[Medium][medium] & [LinkedIn][linkedin] in Turkish
-  <details>
-  <summary> 📕 Latest Blog Posts in Turkish</summary>
-  
-    <!--START_SECTION:activity-->
-    - [Hyper Casual, Temel mi? Tuzak mı?](https://www.linkedin.com/pulse/hyper-casual-temel-mi-tuzak-m%25C4%25B1-tolga-co%25C5%259Fkun/?trackingId=sQPH1JwvS9WJTifzywkgXg%3D%3D)
-    - [Bir Sanat Olarak Dijital Oyunlar](https://www.linkedin.com/pulse/bir-sanat-olarak-dijital-oyunlar-tolga-co%C5%9Fkun/)
-    - [ANNE! Ben oyun yapıyorum!](https://www.linkedin.com/pulse/anne-ben-oyun-yap%C4%B1yorum-tolga-co%C5%9Fkun/)
-    - [Bitir İşini!](https://www.linkedin.com/pulse/bitir-i%C5%9Fini-tolga-co%C5%9Fkun/)
-    - [Oyununuzu Konuşturun!](https://www.linkedin.com/pulse/oyununuzu-konu%C5%9Fturun-tolga-co%C5%9Fkun/)
-    - ["Neden Oyun Yapıyorsun?"​](https://www.linkedin.com/pulse/neden-oyun-yap%C4%B1yorsun-tolga-co%C5%9Fkun/)
-    <!--END_SECTION:activity-->
-    ➡️ [more blog posts...][articles]
-</details>
-
+- I sometimes write articles about Mobile Game Development both Globally or in Türkiye @[Medium][medium] & [LinkedIn][linkedin]
 
 ### Connect with me:
 
